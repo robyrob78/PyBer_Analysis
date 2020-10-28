@@ -13,10 +13,19 @@ Rural Rides: 125
 
 Suburban Rides: 625
 
-Urab Rides: 1625
+Urban Rides: 1625
+
+![Alt text](https://github.com/robyrob78/PyBer_Analysis/blob/main/Analysis/Fig6.png)
 
 ### Total Drivers
 
+Rural Drivers: 78
+
+Suburban Drivers: 490
+
+Urban Drivers: 2,405
+
+![Alt text](https://github.com/robyrob78/PyBer_Analysis/blob/main/Analysis/Fig7.png)
 
 ### Total Fares
 
