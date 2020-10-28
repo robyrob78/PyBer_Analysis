@@ -5,7 +5,7 @@ The purpose of the new analysis was to analyze the total weekly fares by city ty
 
 ## Results
 
-The data for different ride-sharing data amongst the different city types is as follows
+The ride-sharing data amongst the different city types is as follows
 
 ### Total Rides
 
@@ -29,13 +29,28 @@ Urban Drivers: 2,405
 
 ### Total Fares
 
+Rural: $4,327.93
+
+Suburban: $19,356.33
+
+Urban: $39,854.38
+
+![Alt text](https://github.com/robyrob78/PyBer_Analysis/blob/main/Analysis/Fig5.png)
 
 ### Average Fare per Ride
 
+Rural: $34.62
+
+Suburban: $30.98
+
+Urban: $24.53
 
 ### Average Fare per Driver
 
+Rural: $55.49
+
+Suburban: $39.50
+
+Urban: $16.57
 
 
-
-![Alt text](https://github.com/robyrob78/PyBer_Analysis/blob/main/Analysis/Fig7.png)
