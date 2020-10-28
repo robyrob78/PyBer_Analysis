@@ -53,4 +53,6 @@ Suburban: $39.50
 
 Urban: $16.57
 
+# Summary and Reccomendations
 
+One of the first major disparities we can see is that the Urban drivers vastly outnumber drivers in either of the other categories. One way to encourage drivers to cover more areas would be to offer incentives or bonuses in the areas with less drivers. This might encourage some of the urban drivers to venture out into the rural and suburban areas. The next disparity to address is the average fare per ride in relation to the average fare per driver. From our "Average Fare per Driver" stats we can see that urban drivers earn far less than their counter parts. The urban drivers earn less than the average fare per ride, while suburban drivers, and rural drivers earn more than the average fare per ride. One way to help balance this would be to increase fare prices within urban areas. Another way would be to limit the ammount of new drivers that PyBer is accepting. As long as their drivers are meeting demands for rides, capping the driver limit could help reduce the over-saturation of urban drivers. 
